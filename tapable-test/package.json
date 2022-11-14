@@ -1,0 +1,7 @@
+{
+  "name": "tapable-test",
+  "version": "2.2.1",
+  "dependencies": {
+    "tapable": "^2.2.1"
+  }
+}
